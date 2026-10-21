@@ -1,6 +1,6 @@
 /*
- * Name: YOUR NAME
- * PID: YOUR PID
+ * Name: Rachit Jain
+ * PID: A18942551
  */
 
 import java.util.NoSuchElementException;
@@ -8,7 +8,7 @@ import java.util.NoSuchElementException;
 /**
  * Stores characters in a resizable circular queue in first-in, first-out order.
  *
- * @author YOUR NAME
+ * @author 
  * @since 2026-10-20
  */
 public class CharQueue {
